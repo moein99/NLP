@@ -1,0 +1,4 @@
+recall = 1.0
+f1 = 0.8
+accuracy = 0.8
+presicion = 0.6666666666666666

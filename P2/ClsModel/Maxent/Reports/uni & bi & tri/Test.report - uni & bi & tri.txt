@@ -1,0 +1,27 @@
+
+-------------------- Trial 0  --------------------
+
+Trial 0 Training MaxEntTrainer,gaussianPriorVariance=1.0 with 10890 instances
+Trial 0 Training MaxEntTrainer,gaussianPriorVariance=1.0 finished
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 Test Data Confusion Matrix
+Confusion Matrix, row=true, column=predicted  accuracy=0.6286252354048965 most-frequent-tag baseline=0.5096045197740113
+       label   0   1  |total
+  0     joey 813 489  |1302
+  1 chandler 497 856  |1353
+
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data precision(joey) = 0.6206106870229008
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data precision(chandler) = 0.6364312267657992
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data recall(joey) = 0.6244239631336406
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data recall(chandler) = 0.6326681448632668
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data F1(joey) = 0.622511485451761
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data F1(chandler) = 0.6345441067457376
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data accuracy = 0.6286252354048965
+
+MaxEntTrainer,gaussianPriorVariance=1.0
+Summary. test accuracy mean = 0.6286252354048965 stddev = 0.0 stderr = 0.0
+Summary. test precision(joey) mean = 0.6206106870229008 stddev = 0.0 stderr = 0.0
+Summary. test precision(chandler) mean = 0.6364312267657992 stddev = 0.0 stderr = 0.0
+Summary. test recall(joey) mean = 0.6244239631336406 stddev = 0.0 stderr = 0.0
+Summary. test recall(chandler) mean = 0.6326681448632668 stddev = 0.0 stderr = 0.0
+Summary. test f1(joey) mean = 0.622511485451761 stddev = 0.0 stderr = 0.0
+Summary. test f1(chandler) mean = 0.6345441067457376 stddev = 0.0 stderr = 0.0

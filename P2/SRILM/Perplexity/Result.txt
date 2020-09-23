@@ -1,0 +1,102 @@
+*** label1_1gram.lm *** 
+label1_train_data result :
+6301 sentences, 76983 words, 0 OOVs
+0 zeroprobs, logprob= -220539.6 ppl= 444.6748 ppl1= 732.4582
+
+label1_test_data result :
+1397 sentences, 17621 words, 918 OOVs
+0 zeroprobs, logprob= -46716.13 ppl= 381.0672 ppl1= 626.4272
+
+label2_train_data result :
+ 6351 sentences, 73131 words, 4054 OOVs
+0 zeroprobs, logprob= -194137.4 ppl= 374.8101 ppl1= 646.3232
+
+label2_test_data result :
+1451 sentences, 17078 words, 1018 OOVs
+0 zeroprobs, logprob= -45075.03 ppl= 375.0575 ppl1= 640.7141
+
+*** label1_2gram.lm ***
+label1_train_data result :
+6301 sentences, 76983 words, 0 OOVs
+0 zeroprobs, logprob= -243317.8 ppl= 834.7241 ppl1= 1447.668
+
+label1_test_data result :
+ 1397 sentences, 17621 words, 918 OOVs
+0 zeroprobs, logprob= -50413.44 ppl= 609.9201 ppl1= 1042.862
+
+label2_train_data result :
+6351 sentences, 73131 words, 4054 OOVs
+0 zeroprobs, logprob= -209960.1 ppl= 607.5519 ppl1= 1095.238
+
+
+label2_test_data result :
+1451 sentences, 17078 words, 1018 OOVs
+0 zeroprobs, logprob= -48710.48 ppl= 604.9337 ppl1= 1079.025
+
+*** label1_3gram.lm ***
+label1_train_data result :
+6301 sentences, 76983 words, 0 OOVs
+0 zeroprobs, logprob= -253391.6 ppl= 1102.81 ppl1= 1956.712
+
+label1_test_data result :
+1397 sentences, 17621 words, 918 OOVs
+0 zeroprobs, logprob= -51813.76 ppl= 728.851 ppl1= 1264.92
+
+label2_train_data result :
+6351 sentences, 73131 words, 4054 OOVs
+0 zeroprobs, logprob= -215861.7 ppl= 727.4854 ppl1= 1333.346
+
+label2_test_data result :
+ 1451 sentences, 17078 words, 1018 OOVs
+0 zeroprobs, logprob= -50068.45 ppl= 723.1979 ppl1= 1310.954
+
+*** label2_1gram.lm ***
+label1_train_data result :
+6301 sentences, 76983 words, 0 OOVs
+0 zeroprobs, logprob= -220539.6 ppl= 444.6748 ppl1= 732.4582
+
+label1_test_data result :
+1397 sentences, 17621 words, 918 OOVs
+0 zeroprobs, logprob= -46716.13 ppl= 381.0672 ppl1= 626.4272
+
+label2_train_data result :
+6351 sentences, 73131 words, 4054 OOVs
+0 zeroprobs, logprob= -194137.4 ppl= 374.8101 ppl1= 646.3232
+
+label2_test_data result :
+1451 sentences, 17078 words, 1018 OOVs
+0 zeroprobs, logprob= -45075.03 ppl= 375.0575 ppl1= 640.7141
+
+*** label2_2gram.lm ***
+label1_train_data result :
+6301 sentences, 76983 words, 0 OOVs
+0 zeroprobs, logprob= -243317.8 ppl= 834.7241 ppl1= 1447.668
+
+label1_test_data result :
+1397 sentences, 17621 words, 918 OOVs
+0 zeroprobs, logprob= -50413.44 ppl= 609.9201 ppl1= 1042.862
+
+label2_train_data result :
+6351 sentences, 73131 words, 4054 OOVs
+0 zeroprobs, logprob= -209960.1 ppl= 607.5519 ppl1= 1095.238
+
+label2_test_data result :
+1451 sentences, 17078 words, 1018 OOVs
+0 zeroprobs, logprob= -48710.48 ppl= 604.9337 ppl1= 1079.025
+
+*** label2_3gram.lm ***
+label1_train_data result :
+6301 sentences, 76983 words, 0 OOVs
+0 zeroprobs, logprob= -253391.6 ppl= 1102.81 ppl1= 1956.712
+
+label1_test_data result :
+ 1397 sentences, 17621 words, 918 OOVs
+0 zeroprobs, logprob= -51813.76 ppl= 728.851 ppl1= 1264.92
+
+label2_train_data result :
+ 6351 sentences, 73131 words, 4054 OOVs
+0 zeroprobs, logprob= -215861.7 ppl= 727.4854 ppl1= 1333.346
+
+label2_test_data result :
+ 1451 sentences, 17078 words, 1018 OOVs
+0 zeroprobs, logprob= -50068.45 ppl= 723.1979 ppl1= 1310.954

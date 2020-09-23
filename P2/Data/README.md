@@ -1,0 +1,1 @@
+the python code in src directory reads each text file in RawData directory and finds any dialogue that belongs to first character or second character then it stores dialogues in separate directories (label1 and label2).
